@@ -1,1 +1,1 @@
-This app autmatically adds a random number of randomly colored balls within a box. The user is then asked to guess how many balls are in the box. After they submit their guess, they are shown if they are correct or if they are incorrect and by howmany balls their guess was incorrect by.
+This app automatically adds a random number of randomly colored balls within a box. The user is then asked to guess how many balls are in the box. After they submit their guess, they are shown if they are correct or if they are incorrect and by howmany balls their guess was incorrect by.
